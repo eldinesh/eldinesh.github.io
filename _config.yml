@@ -1,19 +1,26 @@
 # Site settings
 name: Dinesh Kumar
-title: Dinesh Kumar's Site
-description: Wumbo
-url: http://google.com
+title: Dinesh Kumar | UI/UX Designer & Open-Source Contributer
+description: Design-minded, detail oriented software engineer passionate about combining beautiful code with beautiful design.
+url: http://eldinesh.is-a.dev
 baseurl: ""
-email:
+email: dseera6@gmail.com
+cover: http://brittanychiang.com/img/og.jpg
+logo: http://brittanychiang.com/img/logo-black.png
+resume: http://brittanychiang.com/resume.pdf
 social:
   - title: email
-    url:
-  - title: facebook
-    url:
+    url: mailto:dseera6@gmail.com
   - title: twitter
-    url:
+    url: https://twitter.com/eldineshk
   - title: instagram
-    url:
+    url: https://instagram.com/eldineshk
+  - title: codepen
+    url: http://codepen.io/bchiang7
+  - title: github
+    url: https://github.com/eldinesh
+  - title: linkedin
+    url: https://www.linkedin.com/in/eldinesh
 
 # Build settings
 markdown: kramdown
@@ -32,3 +39,7 @@ keep_files:
   - "CNAME"
   - ".git"
   - ".gitignore"
+
+gems:
+  - jekyll-minifier
+  - jekyll-sitemap
