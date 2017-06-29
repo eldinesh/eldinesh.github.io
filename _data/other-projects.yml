@@ -1,0 +1,6 @@
+- name: McaBook M1 Dev Setup
+  url: https://github.com/eldinesh/MacBook-M1-Dev-Setup
+  code: https://github.com/eldinesh/MacBook-M1-Dev-Setup
+  description: As we all know M1 Macs are newly launched and only few tools supported by these Macs. In this repo, I'm making a detailed sheet for all tools supported by M1 Macs along with their stability.
+  used:
+    - thing: Markdown

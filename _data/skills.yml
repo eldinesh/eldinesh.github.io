@@ -1,0 +1,26 @@
+languages:
+  - item: Markdown
+  - item: HTML
+  - item: CSS
+  - item: Python
+  - item: Java
+  - item: SQL
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: Xcode
+  - item: Terminal
+  - item: PyCharm
+  - item: MySQL
+  - item: AnaConda
+  - item: VSCode
+
+design:
+  - item: Sketch
+  - item: InVision
+  - item: Photoshop
+  - item: InDesign
+  - item: Illustrator
+  - item: Adobe XD
+  - item: Figma
