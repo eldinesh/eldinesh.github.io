@@ -6,7 +6,7 @@ url: http://eldinesh.is-a.dev
 baseurl: ""
 email: dseera6@gmail.com
 cover: http://brittanychiang.com/img/og.jpg
-logo: http://brittanychiang.com/img/logo-black.png
+logo: ../img/logo/logo4.png
 resume: http://brittanychiang.com/resume.pdf
 social:
   - title: email
