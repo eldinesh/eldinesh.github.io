@@ -3,8 +3,15 @@ languages:
   - item: HTML
   - item: CSS
   - item: Python
-  - item: Java
   - item: SQL
+  - item: R
+
+frameworks:
+  - item: TensorFlow
+  - item: Keras
+  - item: Scikit-learn
+  - item: NumPy
+  - item: Pandas
 
 tools:
   - item: Bash
@@ -24,3 +31,6 @@ design:
   - item: Illustrator
   - item: Adobe XD
   - item: Figma
+  - item: Prototyping
+  - item: Wireframing
+  - item: User Testing
