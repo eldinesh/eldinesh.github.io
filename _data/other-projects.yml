@@ -19,9 +19,7 @@
 - name: UI/UX
   url: https://www.tykeinvest.com
   code: https://www.tykeinvest.com
-  description:
-     My first UI/UX project, Tyke Technologies, India's first online platform for investing in startups. Tyke is a SAAS platform which lets you invest as little as INR 5000 in private startups and helps raise capital for startups.<br>
-    <a class="small" href="https://www.instagram.com/tykeinvest/">🍥 Clean, flat and catchy designes 🍥</a>
+  description: My first UI/UX project, Tyke Technologies, India's first online platform for investing in startups. Tyke is a SAAS platform which lets you invest as little as INR 5000 in private startups and helps raise capital for startups.
   used:
     - thing: Adobe XD
     - thing: Figma
