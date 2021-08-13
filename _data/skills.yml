@@ -6,6 +6,13 @@ languages:
   - item: Java
   - item: SQL
 
+frameworks:
+   - item: TensorFlow
+   - item: Keras
+   - item: Scikit-learn
+   - item: NumPy
+   - item: Pandas
+
 tools:
   - item: Bash
   - item: Git & Github
@@ -24,3 +31,6 @@ design:
   - item: Illustrator
   - item: Adobe XD
   - item: Figma
+  - item: Prototyping
+  - item: Wireframing
+  - item: User Testing
